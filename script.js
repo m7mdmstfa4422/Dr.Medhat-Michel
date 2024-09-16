@@ -1,0 +1,32 @@
+let menu = document.querySelector('#menu-icon');
+let navlinks = document.querySelector('.nav-links');
+
+menu.onclick = () => {
+    menu.classList.toggle('bx-x');
+    navlinks.classList.toggle('open')
+}
+
+
+var swiper = new Swiper(".swiper", {
+    effect: "coverflow",
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: "auto",
+    coverflowEffect: {
+      rotate: 0,
+      stretch: 0,
+      depth: 100,
+      modifier: 1,
+      slideShadows: true
+    },
+    spaceBetween: 60,
+    loop: true,
+    pagination: {
+      el: ".swiper-pagination",
+      clickable: true
+    }
+  });
+  
+  
+  
+  

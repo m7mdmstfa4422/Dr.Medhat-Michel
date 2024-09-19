@@ -277,22 +277,22 @@ header {
 
 .swiper-slide--one {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url(img/7alp.jpg) no-repeat 50% 50% / cover;
+    url(img/7alp.png) no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--two {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("img/kely.jpg") no-repeat 50% 50% / cover;
+    url("img/kely.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--three {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("img/prostata.jpg") no-repeat 50% 50% / cover;
+    url("img/prostata.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--four {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("img/matana.jpg") no-repeat 50% 50% / cover;
+    url("img/matana.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-slide--five {
@@ -302,7 +302,7 @@ header {
 
 .swiper-slide--six {
   background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
-    url("img/lazer\ \ marn_.jpg") no-repeat 50% 50% / cover;
+    url("img/lazer\ \ marn_png.png") no-repeat 50% 50% / cover;
 }
 
 .swiper-3d .swiper-slide-shadow-left,

@@ -25,7 +25,7 @@ body {
     background: linear-gradient(127deg, #ffffff, #155353, #1f1f1f, #155353);
       background-size: 500% 400%;
     animation: gradient 6s ease infinite;
-    height: 260vh;
+    height: 300vh;
     color: var(--text-color);
 
 }
